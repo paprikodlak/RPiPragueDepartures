@@ -1,0 +1,6 @@
+pigpio==1.41
+requests==2.25.1
+RPi.GPIO==0.7.0
+schedule==0.6.0
+spidev==3.5
+
